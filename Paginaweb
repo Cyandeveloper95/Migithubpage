@@ -1,0 +1,7 @@
+echo "# Migithubpage" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Cyandeveloper95/Migithubpage.git
+git push -u origin master
+                
